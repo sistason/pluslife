@@ -4,7 +4,7 @@ import sys
 import json
 import datetime
 
-from pluslife_model import PluslifeTestrun, get_plotimage_from_data
+from pluslife import PluslifeTestrun, get_plotimage_from_data
 
 if __name__ == "__main__":
     with open(sys.argv[1]) as f:

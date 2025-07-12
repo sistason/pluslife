@@ -1,7 +1,7 @@
 [project]
-name = "pluslife_model"
+name = "pluslife"
 version = "1.0"
-description = "Data Model for Pluslife to share between projects"
+description = "Base Data Model for Pluslife to share between projects"
 readme = "README.md"
 requires-python = ">=3.7"
 dependencies = ["matplotlib", "pillow", "numpy", "scipy"]

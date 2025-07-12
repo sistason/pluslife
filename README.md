@@ -1,3 +1,3 @@
-# Pluslife Model
+# Pluslife
 
-Data Model for Pluslife to share between projects, like companion, webhooks or testcenter
+Base Data Model for Pluslife to share between projects, like companion, webhooks or testcenter
